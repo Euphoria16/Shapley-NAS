@@ -3,7 +3,7 @@
 This is the official pytorch implementation for the paper: [*Shapley-NAS: Discovering Operation Contribution for Neural Architecture Search*](https://openaccess.thecvf.com/content/CVPR2022/html/Xiao_Shapley-NAS_Discovering_Operation_Contribution_for_Neural_Architecture_Search_CVPR_2022_paper.html), 
 which is accepted by CVPR2022. This repo contains the implementation of architecture search and evaluation on CIFAR-10 and ImageNet using our proposed Shapley-NAS.
 
-![intro](figs/shapley-NAS.png)
+![intro](https://github.com/Euphoria16/Shapley-NAS/blob/main/figs/Shapley-NAS.png)
 
 ## Quick Start
 
