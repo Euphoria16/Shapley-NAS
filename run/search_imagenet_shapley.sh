@@ -3,4 +3,4 @@ python -W ignore train_search_imagenet.py    \
 --batch_size 1024    \
 --save imagenet_shapley    \
 --shapley_momentum 0.8  \
---data /path/to/imagennet  \
+--data  "/mnt/hdd0/hjyoo/Datasets/imagenet/" \
